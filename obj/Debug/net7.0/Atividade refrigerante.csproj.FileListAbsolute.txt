@@ -1,0 +1,15 @@
+C:\Users\56262631879\Desktop\Atividade refrigerante\bin\Debug\net7.0\Atividade refrigerante.exe
+C:\Users\56262631879\Desktop\Atividade refrigerante\bin\Debug\net7.0\Atividade refrigerante.deps.json
+C:\Users\56262631879\Desktop\Atividade refrigerante\bin\Debug\net7.0\Atividade refrigerante.runtimeconfig.json
+C:\Users\56262631879\Desktop\Atividade refrigerante\bin\Debug\net7.0\Atividade refrigerante.dll
+C:\Users\56262631879\Desktop\Atividade refrigerante\bin\Debug\net7.0\Atividade refrigerante.pdb
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.csproj.AssemblyReference.cache
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.AssemblyInfoInputs.cache
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.AssemblyInfo.cs
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.csproj.CoreCompileInputs.cache
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.dll
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\refint\Atividade refrigerante.dll
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.pdb
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\Atividade refrigerante.genruntimeconfig.cache
+C:\Users\56262631879\Desktop\Atividade refrigerante\obj\Debug\net7.0\ref\Atividade refrigerante.dll
